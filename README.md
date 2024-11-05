@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/5b4c61c1-31eb-40b7-bfdd-0afbcbfe74b5" alt="Logo HYRA TEK-01" width="300" />
+<img src="https://github.com/user-attachments/assets/1a1d2f65-b00c-4c96-92bb-a565b4c2937f" alt="Logo HYRA TEK-01" width="300" />
 
 ## ComfyUI_QAIC
+
 
 
 ## Overview
@@ -83,6 +84,6 @@ python main.py
 ```
 
 # Support 
-Use [GitHub Issues]()) to request for model support, raise questions or to provide feedback.  
+Use [GitHub Issues](https://github.com/Hyratek/ComfyUI_QAIC/issues) to request for model support, raise questions or to provide feedback.  
 
 # ComfyUI_QAIC
