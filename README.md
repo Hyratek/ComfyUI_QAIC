@@ -86,4 +86,4 @@ python main.py
 # Support 
 Use [GitHub Issues](https://github.com/Hyratek/ComfyUI_QAIC/issues) to request for model support, raise questions or to provide feedback.  
 
-# ComfyUI_QAIC
+
